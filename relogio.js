@@ -39,4 +39,4 @@ setInterval(() => {
   if (horas < 10) {
     htmlHoras.textContent = `0${horas}`;
   }
-}, 1000);
+}, 999);
